@@ -9,6 +9,7 @@ In case one of the five configurable values is empty, an exception is thrown.
 
 ## Test project
 https://geodistancecalculator-sandbox.mxapps.io
+Log in with MxAdmin, password: 1
 
 ## Other
 No custom .jar files are used for this module.
