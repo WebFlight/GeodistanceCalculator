@@ -13,3 +13,4 @@ Log in with MxAdmin, password: 1
 
 ## Other
 No custom .jar files are used for this module.
+Calculating is done according to the Haversine formula. (https://en.wikipedia.org/wiki/Haversine_formula)
